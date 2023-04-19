@@ -64,7 +64,7 @@
     "id": 4,
     "question": "Выберите правильную фигуру из четырёх пронумерованных.",
     "type": "image",
-    "image": "/assets/imagePeople.png",
+    "image": "/imagePeople.png",
     "options": [
       {
         "id": 1,
@@ -88,7 +88,7 @@
     "id": 5,
     "question": "Какое определение, по-Вашему, больше подходит к этому геометрическому изображению:",
     "type": "quetion",
-    "image": "/assets/imageShape.png",
+    "image": "/imageShape.png",
     "options": [
       {
         "id": 1,
