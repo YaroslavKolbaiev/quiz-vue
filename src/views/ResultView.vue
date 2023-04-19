@@ -141,10 +141,18 @@
       letter-spacing: 0.05em;
       gap: 18px;
       cursor: pointer;
+      &:active {
+        background-color: brown;
+      }
     }
   }
 
   .infoFromServer {
+    margin-top: 10px;
     background-color: #ffffff;
+    padding: 20px;
+    font-family: Roboto, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
   }
 </style>
