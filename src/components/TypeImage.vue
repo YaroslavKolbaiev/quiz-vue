@@ -1,6 +1,6 @@
 <script setup>
-  import { defineProps } from "vue";
-  const { option, selectAnswer } = defineProps(["option", "selectAnswer"]);
+import { defineProps } from 'vue';
+const { option, selectAnswer } = defineProps(['option', 'selectAnswer']);
 </script>
 
 <template>
@@ -15,7 +15,8 @@
 </template>
 
 <style scoped>
-  .selected {
-    border: 2px solid #ffc700;
-  }
+.selected {
+  border: 4px solid #ffc700;
+  box-sizing: border-box;
+}
 </style>
